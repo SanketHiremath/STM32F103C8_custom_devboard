@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-04-26T08:32:37Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "stm32board"
+        },
+        "Owner": "Sanket Hiremath <sanketh63@gmail.com>",
+        "Size": {
+            "X": 67.996,
+            "Y": 71.618
+        }
+    }
+}
